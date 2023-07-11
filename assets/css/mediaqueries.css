@@ -23,6 +23,7 @@
     text-align: center;
   }
   .menu-content, .menu-content ul{
+    margin-top: 5rem;
     flex-direction: column;
     justify-content: center;
     height: 100vh;
